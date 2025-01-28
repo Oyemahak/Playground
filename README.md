@@ -1,2 +1,2 @@
 # Playground
-Fun Codes.
+I Gonna create multiple fun games in this folder for sure.
